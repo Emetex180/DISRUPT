@@ -1,0 +1,5 @@
+2025-07-22 23:16:46,517 - Kill-switch monitor started.
+2025-07-22 23:18:27,107 - Connection error: HTTPSConnectionPool(host='yourserver.com', port=443): Max retries exceeded with url: /kill_switch.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022870216AB0>, 'Connection to yourserver.com timed out. (connect timeout=5)'))
+2025-07-22 23:19:08,107 - Connection error: HTTPConnectionPool(host='ww84.yourserver.com', port=80): Max retries exceeded with url: /kill_switch.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000228702171A0>, 'Connection to ww84.yourserver.com timed out. (connect timeout=5)'))
+2025-07-22 23:19:57,306 - Shutdown script executed manually.
+2025-07-22 23:19:57,309 - Shutdown initiated immediately.
